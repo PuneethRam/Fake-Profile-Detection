@@ -1,1 +1,1 @@
-Fake-Profile-Detection using Random Forest Algorithm. The dataset users.csv contains legit profiles and the dataset fusers contains fake profiles. The datasets are concatenated and trained and tested with random forest algorithm.
+Fake-Profile-Detection using Random Forest Algorithm. The dataset users.csv contains real legit profiles and the dataset fusers contains fake profiles. The datasets are concatenated and trained and tested with random forest algorithm.
